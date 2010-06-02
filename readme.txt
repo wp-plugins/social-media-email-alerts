@@ -13,6 +13,10 @@ Have you ever noticed that your site was submitted to social media sites, but on
 
 By settng up rules that are specific to the traffic patterns of your site, you can be notified of a new social media submission when the initial visitors from that submission come trickling in. For social media sites like Digg.com where your window of opportunity to act is just 24 hours, this early notification can be the difference between thousands of visitors and next to none.
 
+If you have questions or notice a bug, please report them here:
+
+http://www.mariosalexandrou.com/blog/social-media-email-alerts-for-wordpress/
+
 == Installation ==
 
 1. Upload the social-media-email-alerts folder to the '/wp-content/plugins/' directory.
