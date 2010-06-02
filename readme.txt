@@ -29,7 +29,7 @@ Reset (minutes): 60
 
 Example 2:
 
-These settings will send an e-mail if your site recives 10 visits to any one page, within a 2 hour window, and the querystring includes source=twitter.com. In this case, the referring site doesn't matter.
+These settings will send an e-mail if your site receives 10 visits to any one page, within a 2 hour window, and the querystring includes source=twitter.com. In this case, the referring site doesn't matter.
 
 Value to Match: source=twitter.com
 Min. Visits: 10
