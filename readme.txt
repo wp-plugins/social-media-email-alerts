@@ -13,6 +13,11 @@ Have you ever noticed that your site was submitted to social media sites, but on
 
 By settng up rules that are specific to the traffic patterns of your site, you can be notified of a new social media submission when the initial visitors from that submission come trickling in. For social media sites like Digg.com where your window of opportunity to act is just 24 hours, this early notification can be the difference between thousands of visitors and next to none.
 
+Note: This plugin is unlike the alerts in Google Analytics in two important ways:
+
+1. GA sends out its alerts the following day, not in real-time like this plugin.
+2. GA alerts you to changes in overall site traffic whereas this plugin tracks traffic at the page level.
+
 If you have questions or notice a bug, please report them here:
 
 http://www.mariosalexandrou.com/blog/social-media-email-alerts-for-wordpress/
