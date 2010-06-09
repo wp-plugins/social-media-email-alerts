@@ -1,7 +1,7 @@
 <?php
  /*
 Plugin Name: Social Media Email Alerts
-Version: 1.0.0
+Version: 1.1
 Plugin URI: http://www.mariosalexandrou.com/blog/social-media-email-alerts-for-wordpress/
 Description: Receive e-mail alerts when your site gets traffic from social media sites of your choosing. You can also set up alerts for when certain parameters appear in the URL.
 Author: Marios Alexandrou
