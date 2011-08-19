@@ -2,8 +2,8 @@
 Contributors: marios-alexandrou
 Tags: alerts, referrers, referrals, social media
 Requires at least: 2.9.2
-Tested up to: 2.9.2
-Stable tag: 1.1
+Tested up to: 3.2.1
+Stable tag: 1.3
 
 Receive e-mail alerts when your site gets traffic from social media sites of your choosing. You can also set up alerts for when certain parameters appear in the URL.
 
@@ -20,7 +20,7 @@ Note: This plugin is unlike the alerts in Google Analytics in two important ways
 
 If you have questions or notice a bug, please report them here:
 
-http://www.mariosalexandrou.com/blog/social-media-email-alerts-for-wordpress/
+http://infolific.com/technology/software-worth-using/social-media-email-alerts-for-wordpress/
 
 == Installation ==
 
@@ -77,3 +77,9 @@ http://wordpress.org/extend/plugins/rss-includes-pages/
 
 = 1.1 =
 * FAQ updates.
+
+= 1.2 =
+* Syncing version numbers.
+
+= 1.3 =
+* Confirm that plugin works fine with WordPress 3.2.1.
