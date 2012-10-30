@@ -1,9 +1,12 @@
 === Social Media E-Mail Alerts ===
 Contributors: Marios Alexandrou
+Donate link: http://infolific.com/technology/software-worth-using/social-media-email-alerts-for-wordpress/
 Tags: alerts, referrers, referrals, social media
 Requires at least: 2.9.2
-Tested up to: 3.2.1
-Stable tag: 1.3
+Tested up to: 3.4
+Stable tag: 1.4.2
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Receive e-mail alerts when your site gets traffic from social media sites of your choosing. You can also set up alerts for when certain parameters appear in the URL.
 
@@ -83,3 +86,6 @@ http://wordpress.org/extend/plugins/rss-includes-pages/
 
 = 1.3 =
 * Confirm that plugin works fine with WordPress 3.2.1.
+
+= 1.4.2 =
+* Fixing contributor list format.
