@@ -1,5 +1,5 @@
 === Social Media E-Mail Alerts ===
-Contributors: marios-alexandrou
+Contributors: Marios Alexandrou
 Tags: alerts, referrers, referrals, social media
 Requires at least: 2.9.2
 Tested up to: 3.2.1
