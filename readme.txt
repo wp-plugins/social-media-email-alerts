@@ -3,7 +3,7 @@ Contributors: Marios Alexandrou
 Donate link: http://infolific.com/technology/software-worth-using/social-media-email-alerts-for-wordpress/
 Tags: alerts, referrers, referrals, social media
 Requires at least: 2.9.2
-Tested up to: 3.4
+Tested up to: 3.9.1
 Stable tag: 1.4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
