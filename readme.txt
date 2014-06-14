@@ -4,7 +4,7 @@ Donate link: http://infolific.com/technology/software-worth-using/social-media-e
 Tags: alerts, referrers, referrals, social media
 Requires at least: 2.9.2
 Tested up to: 3.9.1
-Stable tag: 1.4.2
+Stable tag: 1.4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -89,3 +89,6 @@ http://wordpress.org/extend/plugins/rss-includes-pages/
 
 = 1.4.2 =
 * Fixing contributor list format.
+
+= 1.4.3 =
+* Confirmed that plugin works fine with WordPress 3.9.1.
