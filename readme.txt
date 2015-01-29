@@ -21,7 +21,7 @@ Note: This plugin is unlike the alerts in Google Analytics in two important ways
 1. GA sends out its alerts the following day, not in real-time like this plugin.
 2. GA alerts you to changes in overall site traffic whereas this plugin tracks traffic at the page level.
 
-If you have questions or notice a bug, please contact Marios Alexandrou here via the <a href="http://infolific.com/technology/software-worth-using/social-media-email-alerts-for-wordpress/">official Social Media Email Alerts page</a>.
+If you have questions or notice a bug, please contact Marios Alexandrou here via the <a href="http://infolific.com/technology/software-worth-using/social-media-email-alerts-for-wordpress/">official Social Media Email Alerts page</a> on Infolific.com.
 
 == Installation ==
 
