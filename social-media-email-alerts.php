@@ -4,7 +4,7 @@ Plugin Name: Social Media Email Alerts
 Version: 1.4.3
 Plugin URI: http://infolific.com/technology/software-worth-using/social-media-email-alerts-for-wordpress/
 Description: Receive e-mail alerts when your site gets traffic from social media sites of your choosing. You can also set up alerts for when certain parameters appear in the URL.
-Author: Marios-Alexandrou
+Author: Marios Alexandrou
 Author URI: Author URI: http://infolific.com/technology/
 Special Thanks To: Aaron Harun, http://aahacreative.com/, for his PHP / WordPress development skills
 And To: Thaya Kareeson for his tutorial on making any plugin work with caching plugins http://omninoggin.com/wordpress-posts/make-any-plugin-work-with-wp-super-cache/
