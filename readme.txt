@@ -1,5 +1,5 @@
 === Social Media E-Mail Alerts ===
-Contributors: Marios Alexandrou
+Contributors: Marios-Alexandrou
 Donate link: http://infolific.com/technology/software-worth-using/social-media-email-alerts-for-wordpress/
 Tags: alerts, referrers, referrals, social media
 Requires at least: 2.9.2
