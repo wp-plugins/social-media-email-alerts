@@ -1,6 +1,6 @@
 === Social Media E-Mail Alerts ===
 Contributors: Marios Alexandrou
-Donate link: http://infolific.com/technology/software-worth-using/social-media-email-alerts-for-wordpress/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VCPWXSGJVCQFQ&lc=CA&item_name=Marios%20Alexandrou&currency_code=CAD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
 Tags: alerts, referrers, referrals, social media
 Requires at least: 2.9.2
 Tested up to: 4.1
