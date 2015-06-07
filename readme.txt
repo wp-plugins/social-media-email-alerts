@@ -1,5 +1,5 @@
 === Social Media E-Mail Alerts ===
-Contributors: Marios-Alexandrou
+Contributors: Marios Alexandrou
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VCPWXSGJVCQFQ&lc=CA&item_name=Marios%20Alexandrou&currency_code=CAD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
 Tags: alerts, referrers, referrals, social media
 Requires at least: 2.9.2
